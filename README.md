@@ -1,5 +1,5 @@
-####Universidad de La Punta
-####Laboratorio de Programación 1 - TP5
+### Universidad de La Punta
+## Laboratorio de Programación 1 - TP5
 
 En un nuevo proyecto, crear una clase de nombre **Arreglo** con los siguientes métodos 
 estáticos (static):
